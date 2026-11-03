@@ -8,7 +8,7 @@ Bienvenido al espacio de trabajo oficial del proyecto de titulación desarrollad
 El sistema está compuesto por cinco repositorios independientes que interactúan entre sí:
 
 * [**Módulo de Detección NoSQLi**](enlace-al-repo) - Motor de análisis, bypass y explotación de bases de datos MongoDB.
-* [**Módulo 2**](enlace-al-repo) - [Breve descripción del módulo].
+* [**Módulo Proxy**](enlace-al-repo) - Interceptor y analizador de tráfico.
 * [**Módulo 3**](enlace-al-repo) - [Breve descripción del módulo].
 * [**Módulo 4**](enlace-al-repo) - [Breve descripción del módulo].
 * [**Módulo 5**](enlace-al-repo) - [Breve descripción del módulo].
@@ -16,7 +16,7 @@ El sistema está compuesto por cinco repositorios independientes que interactúa
 ## Equipo de Desarrollo e Investigación
 
 * **Juan Diego Suárez Barberán** - *Responsable del Módulo de Detección NoSQLi*
-* **[Nombre del Integrante 2]** - *Responsable del [Módulo 2]*
+* **Alvaro Gabriel Zumbana Naula** - *Responsable del Módulo de Proxy*
 * **[Nombre del Integrante 3]** - *Responsable del [Módulo 3]*
 * **[Nombre del Integrante 4]** - *Responsable del [Módulo 4]*
 * **[Nombre del Integrante 5]** - *Responsable del [Módulo 5]*
