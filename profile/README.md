@@ -1,4 +1,12 @@
 # BurpSuiteMobile
+<p align="left">
+  <img src="https://img.shields.io/badge/EPN-Escuela_Politécnica_Nacional-003366?style=flat&logo=adafruit&logoColor=white" alt="EPN">
+  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</p>
+
 ## Herramienta Automatizada para Pruebas de Penetración en Android
 
 Bienvenido al espacio de trabajo oficial del proyecto de titulación desarrollado en la Facultad de Ingeniería de Sistemas de la **Escuela Politécnica Nacional (EPN)**. Esta organización aloja el código fuente, la documentación y la arquitectura modular de la herramienta de pentesting orientada a aplicaciones móviles.
