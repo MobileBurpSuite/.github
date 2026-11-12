@@ -15,7 +15,7 @@ Bienvenido al espacio de trabajo oficial del proyecto de titulación desarrollad
 
 El sistema está compuesto por cinco repositorios independientes que interactúan entre sí:
 
-* [**Módulo de Detección NoSQLi**]([enlace-al-repo](https://github.com/MobileBurpSuite/nosql-detection-module)) - Motor de análisis, bypass y explotación de bases de datos MongoDB.
+* [**Módulo de Detección NoSQLi**](https://github.com/MobileBurpSuite/nosql-detection-module) - Motor de análisis, bypass y explotación de bases de datos MongoDB.
 * [**Módulo Proxy**](enlace-al-repo) - Interceptor y analizador de tráfico.
 * [**Módulo 3**](enlace-al-repo) - [Breve descripción del módulo].
 * [**Módulo 4**](enlace-al-repo) - [Breve descripción del módulo].
